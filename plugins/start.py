@@ -37,7 +37,7 @@ async def start(client,message):
 	    id = message.text.split(' ')[1]
 	except:
 	    await message.reply_text(text =f"""{message.from_user.mention},\n{wish}\nɪ  ᴀᴍ  ᴀɴ  ᴀᴅᴠᴀɴᴄᴇ  ꜰɪʟᴇ  ʀᴇɴᴀᴍᴇʀ  ᴀɴᴅ  ᴄᴏɴᴠᴇʀᴛᴇʀ  ʙᴏᴛ  ᴡɪᴛʜ  ᴘᴇʀᴍᴀɴᴇɴᴛ  ᴀɴᴅ  ᴄᴜsᴛᴏᴍ  ᴛʜᴜᴍʙɴᴀɪʟ  sᴜᴘᴘᴏʀᴛ.\n\nᴊᴜsᴛ  sᴇɴᴅ  ᴍᴇ  ᴀɴʏ  ᴠɪᴅᴇᴏ  ᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛ !!""",reply_to_message_id = message.id ,  
-	reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⚚     ɱᴀɪɴ   ᴄʜᴀɴɴᴇʟ     ⚚', url='https://telegram.me/Botszlist')],[InlineKeyboardButton('👨‍💻   ᴏᴡɴᴇʀ', url='https://telegram.me/NobiDeveloper'),InlineKeyboardButton('📝   ᴀʙᴏᴜᴛ', callback_data = "upgrade")]]))
+	reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⚚     ɱᴀɪɴ   ᴄʜᴀɴɴᴇʟ     ⚚', url='https://telegram.me/iMediaUniverse')],[InlineKeyboardButton('👨‍💻   Support', url='https://telegram.me/iMediasupport'),InlineKeyboardButton('📝   ᴀʙᴏᴜᴛ', callback_data = "upgrade")]]))
 	    return
 	if id:
 	    if old == True:
