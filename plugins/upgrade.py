@@ -16,19 +16,19 @@ async def upgrade(bot,update):
 𝟐.   𝐁𝐚𝐬𝐢𝐜  𝐏𝐥𝐚𝐧
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  10 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 49/ᴍᴏɴᴛʜ.</a> 
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 29/ᴍᴏɴᴛʜ.</a> 
 	
 
 𝟑.   𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  50 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 99/ᴍᴏɴᴛʜ.</a>  
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 59/ᴍᴏɴᴛʜ.</a>  
 	
 
 𝟒.   𝐏𝐫𝐞𝐦𝐢𝐮𝐦  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  100 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 199/ᴍᴏɴᴛʜ.</a>
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 89/ᴍᴏɴᴛʜ.</a>
 
 •°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 
@@ -66,19 +66,19 @@ async def upgradecm(bot,message):
 𝟐.   𝐁𝐚𝐬𝐢𝐜  𝐏𝐥𝐚𝐧
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  10 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 49/ᴍᴏɴᴛʜ.</a> 
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 29/ᴍᴏɴᴛʜ.</a> 
 	
 
 𝟑.   𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  50 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 99/ᴍᴏɴᴛʜ.</a>  
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 59/ᴍᴏɴᴛʜ.</a>  
 	
 
 𝟒.   𝐏𝐫𝐞𝐦𝐢𝐮𝐦  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  100 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 199/ᴍᴏɴᴛʜ.</a>
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/ec7ac3cb1f6b8d42cd48d.jpg'>₹ 89/ᴍᴏɴᴛʜ.</a>
 
 •°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 
